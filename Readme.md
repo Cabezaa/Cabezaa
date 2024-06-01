@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Software Engineer | AWS Enthusiast | Team Player 🤝<br>🎓 Computer Science Graduate | 7+ Years of Experience"<br>🔧 Currently working on Microservices & Event-Driven Architecture<br>🌱 Passionate about learning new technologies & collaborating in a team environment.<br>🇦🇷 From the beautiful Patagonia | 🗣️ 🇪🇸🇺🇸
+🚀 Software Engineer | AWS Enthusiast | Team Player 🤝<br>🎓 Computer Science Graduate | 7+ Years of Experience<br>🔧 Currently working on Microservices & Event-Driven Architecture<br>🌱 Passionate about learning new technologies & collaborating in a team environment.<br>🇦🇷 From the beautiful Patagonia | 🗣️ 🇪🇸🇺🇸
 
 
 # 💻 Tech Stack:
